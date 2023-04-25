@@ -1,2 +1,2 @@
-# YeAcu
-Ye Acu Website
+# Ye Acu Center
+Ye Acupuncture Center Website
