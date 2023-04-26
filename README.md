@@ -1,2 +1,2 @@
-# Ye Acu Center
-Ye Acupuncture Center Website
+# Projects
+# Excel, SQL, Python
